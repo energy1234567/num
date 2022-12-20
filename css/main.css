@@ -1,0 +1,9 @@
+
+  /* немного CSS стилей для оформления таймера */
+  /* #deadline-timer {color: red; font-weight: bold;} */
+
+ .num{
+    display: flex;
+    align-items: center;
+    font-size: 100px;
+ }
